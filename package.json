@@ -17,6 +17,6 @@
     "@types/jasmine": "^3.5.10",
     "@types/mocha": "^7.0.2",
     "jasmine": "^3.5.0",
-    "mocha": "^7.1.1"
+    "mocha": "^10.2.0"
   }
 }
